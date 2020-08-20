@@ -1,8 +1,8 @@
 
+## Frontend File
+## Laravel vue BLogSystem 
 
-## Bona BLogSystem 
-
-Bona is an open source Blog system   mangement  using Laravel 
+Rio is an open source Blog system   mangement  using Laravel 
 
 ## pacakages  Used
 
@@ -29,4 +29,4 @@ Bona is an open source Blog system   mangement  using Laravel
 
 ## License
 
-The Bona Blog System is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The  Blog System is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
